@@ -12,7 +12,7 @@ python -m SimpleHTTPServer
 go to "http://localhost:8000"
 ```
 # DEMO
-http://www.aliabdullahkhan.info/projects/snake_game
+http://hellsalve017196.github.io/snake_game/index.html
 
 #CONTROLLS
 arrow keys 
